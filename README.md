@@ -1,1 +1,1 @@
-# The replication package of the SI of SEAA2021 at IST
+# The replication package of the SEAA 2021 SI at IST
