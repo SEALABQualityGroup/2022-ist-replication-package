@@ -2,11 +2,11 @@
 
 The static, deployment, and use cases diagram are reported in the following.
 
-![staticView](staticView.png)
+![staticView](staticView.jpg)
 
-![deploymentView](deploymentView.png)
+![deploymentView](deploymentView.jpg)
 
-![useCase](useCase.png)
+![useCase](useCase.jpg)
 
 The LQN model is reported below
 
