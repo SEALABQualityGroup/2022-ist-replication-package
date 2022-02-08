@@ -2,9 +2,9 @@
 
 The static, deployment, and use cases diagram are reported in the following.
 
-![staticView](staticView.jpg)
+![staticView](static_view.jpg)
 
-![deploymentView](deploymentView.jpg)
+![deploymentView](deployment_view.jpg)
 
 ![useCase](useCase.jpg)
 
