@@ -1,6 +1,6 @@
 #### Replication package for the paper:
 
-*Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models*
+*Many-Objective Optimization of Non-Functional Attributes based on Refactoring of Software Models*\
 by Vittorio Cortellessa, Daniele Di Pompeo, Vincenzo Stoico, Michele Tucci
 
 #### How to generate the tables and figures in the paper
